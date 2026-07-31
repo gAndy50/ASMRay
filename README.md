@@ -5,7 +5,7 @@ Wrapper of Raylib for assembly (x86)
 This is a wrapper of Raylib (version 6.0) for the assembly programming language. This uses the fasm version of assembly (intel x86).
 
 # LICENSE
-Copyright (c) <2026> <Andy P.>
+Copyright (c) <2026> Andy P.
 
 This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
 
