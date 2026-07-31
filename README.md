@@ -3,6 +3,7 @@ Wrapper of Raylib for assembly (x86)
 
 # ABOUT
 This is a wrapper of Raylib (version 6.0) for the assembly programming language. This uses the fasm version of assembly (intel x86).
+NOTE: You will need to have the DLL and source files in the same folder/directory. 
 
 # EXAMPLE
 ```asm
